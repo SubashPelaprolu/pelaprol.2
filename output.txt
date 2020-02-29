@@ -1,0 +1,16 @@
+Started child 0 with PID=32233 for number 101 at time 0.0
+Started child 1 with PID=32234 for number 105 at time 0.10000
+Child 0 was terminated at time 0.40000
+Started child 2 with PID=32235 for number 109 at time 0.40000
+Child 1 was terminated at time 0.50000
+Started child 3 with PID=32236 for number 113 at time 0.50000
+Child 2 was terminated at time 0.80000
+Started child 4 with PID=32237 for number 117 at time 0.80000
+Child 3 was terminated at time 0.90000
+Child 4 was terminated at time 0.120000
+101 is PRIME number
+-105 is NOT a PRIME number
+109 is PRIME number
+113 is PRIME number
+-117 is NOT a PRIME number
+Finished at 0.120000
